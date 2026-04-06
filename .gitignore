@@ -1,0 +1,40 @@
+# Data files (too large for GitHub)
+*.parquet
+*.parquet.zip
+*.zip
+
+# Generated outputs
+*.html
+*.png
+*.jpg
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (keep only code in repo)
+*.docx
+*.pdf
