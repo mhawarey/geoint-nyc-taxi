@@ -70,10 +70,11 @@ The system will automatically detect `.parquet.zip` files in the working directo
 ## Author
 
 **Dr. Mosab Hawarey**
-PhD, Geodetic & Photogrammetric Engineering | MSc, Geomatics (Purdue) | MSc, Geodesy (METU)
+PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
-- GitHub: [github.com/mhawarey](https://github.com/mhawarey)
-- ORCID: [0000-0001-7846-951X](https://orcid.org/0000-0001-7846-951X)
+- GitHub: https://github.com/mhawarey
+- Personal: https://hawarey.org/mosab
+- ORCID: https://orcid.org/0000-0001-7846-951X
 
 ## License
 
