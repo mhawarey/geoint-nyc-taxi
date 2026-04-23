@@ -2,7 +2,7 @@
 
 **Advanced Trajectory Clustering & Real-Time Mobility Analytics**
 
-A comprehensive geospatial intelligence platform that processes millions of NYC yellow taxi trip records to discover hidden mobility patterns, optimize route planning, and provide actionable business insights through machine learning clustering and interactive visualization.
+A comprehensive geospatial intelligence platform that processes millions of NYC yellow taxi trip records (as an example) to discover hidden mobility patterns, optimize route planning, and provide actionable business insights through machine learning clustering and interactive visualization. The platform is ready to be deployed for other purposes.
 
 ## Key Results
 
