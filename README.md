@@ -1,5 +1,7 @@
 # NYC Taxi Geospatial Intelligence System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Advanced Trajectory Clustering & Real-Time Mobility Analytics**
 
 A comprehensive geospatial intelligence platform that processes millions of NYC yellow taxi trip records (as an example) to discover hidden mobility patterns, optimize route planning, and provide actionable business insights through machine learning clustering and interactive visualization. The platform is ready to be deployed for other purposes.
@@ -70,6 +72,7 @@ The system will automatically detect `.parquet.zip` files in the working directo
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
